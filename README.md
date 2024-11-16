@@ -1,4 +1,6 @@
-# Mineflayer Discord Bot
+# Mineflayer Discord Anarchy Bot
+
+## Currently added commands by me: kit, 
 
 ## Example Config
 
